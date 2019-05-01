@@ -1,7 +1,7 @@
 # Compiled class file
 *.class
 
-#idea folder not included
+#idea and target folder not included
 .idea/
 target/
 
